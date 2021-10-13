@@ -8,3 +8,6 @@ Computers acting as part of a botnet are victims of an XSS attack, this JS code 
 
 - Bypass Ratelimit
 - Bypass IP block
+
+
+![DecBrute](https://user-images.githubusercontent.com/62824857/137057187-fcdc8807-6d82-438e-9311-488e16502439.png)
