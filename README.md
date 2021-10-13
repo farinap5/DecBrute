@@ -1,6 +1,6 @@
 <h1 align="center">DecBrute</h1>
 
-!It is just a proof of concept! 
+!It is just a proof of concept, do not use for malicious purposes! 
 
 Dec Brute is a C2 (Command and Control Server) which provide a target to suffer a decentralized brute force attack.
 
