@@ -4,7 +4,7 @@
 
 DecBrute is a C2 (Command and Control Server) which provide target to suffer a decentralized brute force attacks.
 
-Computers acting as part of a botnet are victims of an XSS attack, this JS code injected on any vulnerable web app that makes the browser to request the username and password from DecBrute server, and then test those credentials on the against.
+Computers acting as part of a botnet are victims of an XSS attack, this JS code injected on any vulnerable web app that makes the browser to request the username and password from DecBrute server, and then test those credentials against the target.
 
 - Bypass Ratelimit
 - Bypass IP block
